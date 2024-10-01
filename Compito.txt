@@ -1,0 +1,93 @@
+COMPITO 01/10/2024
+
+PAOLO TAVIAN 
+
+
+
+
+
+
+
+128.1.6.5/12   CLASSE B 
+11111111.11110000.00000000.00000000
+(0x2°0)+(0x2°1)+(0x2°2)+(0x2°3)+(1x2°4)+(1x2°5)+(1x2°6)+(1x2°7)=
+= 16+32+64+128=240
+256-240=16
+IP NETWORK:  128.0.0.0    
+IP GATEWAY:  128.0.0.1
+IP BROADCAST: 128.15.255.255
+Ottetti per gli host:   20 sono per gli host ( Ultimi ) 
+Ottetti per la network: I primi 12 sono per la network ( Primi)
+
+
+
+
+
+
+
+
+
+200.1.2.3/24   Classe C
+11111111.11111111.11111111.00000000
+256-255=1
+IP NETWORK: 200.1.2.0
+IP Gateway:    200.1.2.1
+IP broadcast    200.1.2.255
+Ottetti per host  8 Bit  Ultimi 
+Ottetti per Network 24 Bit Primi 
+
+
+
+
+
+
+
+192.192.1.1/22  Classe C
+11111111.11111111.11111100.00000000
+256-252=4
+IP Network: 192.192.0.0
+IP Gateway: 192.192.0.1
+IP BROADCAST: 192.192.3.255
+Ottetti per host: (10 Bit ) ultimi
+Ottetti per network 2 (22Bit ) primi 
+
+
+
+
+
+
+126.5.4.3/9 Classe A
+11111111.10000000.00000000.00000000
+256-128=128
+IP Network: 126.0.0.0
+IP Gateway: 126.0.0.1
+IP Broadcast: 126.127.255.255
+Ottetti per Host 2 ( 23 Bit) ultimi 
+Ottetti per Network 2 ( 9 Bit) primi 
+
+
+
+
+
+
+200.1.9.8/24 Classe C
+11111111.11111111.11111111.00000000
+IP Network: 200.1.9.0
+IP Gateway: 200.1.9.1
+IP Broadcast: 200.1.9.255
+Ottetti per Host   ( 8 Bit) ultimi
+Ottetti per Network  (24) primi 
+
+
+
+
+
+
+172.16.0.4/16 CLasse B
+11111111.11111111.00000000.00000000
+256-255=1
+IP Network: 172.16.0.0
+IP Gateway: 172.16.0.1
+IP Broadcast:172.16.255.255
+Ottetti Per Host 16 Bit(Ultimi)
+Ottetti Per Network 16 Bit (primi)
